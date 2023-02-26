@@ -1,4 +1,3 @@
 # school-of-solana
- Winter 23
 
-Here you can find all task related to the course School Of Solana, by Ackee Blockchain
+Here you can find all tasks submitted to the course School Of Solana, by Ackee Blockchain [Winter 23]
